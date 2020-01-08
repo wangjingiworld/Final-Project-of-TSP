@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="test_1" category="opl">
+			<ref name="Test_Lab1.mod" type="model">
+			</ref>
+			<ref name="Test_dat1.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
